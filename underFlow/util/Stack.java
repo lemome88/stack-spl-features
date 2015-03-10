@@ -14,7 +14,7 @@ public class Stack {
 			return original(); // calling the overriden method
 		}
 		else{
-			System.out.println("no more objects to pop");
+			
 			return null;
 		}
 	}
