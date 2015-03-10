@@ -6,6 +6,7 @@ public class Stack {
 	public void push(Object obj) {
 		original(obj);
 		count++;
+		System.out.println("pushing the object");
 	}
 	
 	public Object pop() {
