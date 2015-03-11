@@ -16,6 +16,7 @@ public class Stack {
 		}
 		else{
 			System.out.println("no more objects to pop");
+			System.out.println("no more objects to pop");
 			return null;
 		}
 	}
