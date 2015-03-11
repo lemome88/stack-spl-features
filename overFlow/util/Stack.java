@@ -5,7 +5,7 @@ public class Stack {
 	
 	public void push(Object obj) {
 		if(countMax==50){
-			System.out.println("max reached);
+			System.out.println("max reached");
 			return null;
 			
 		}
