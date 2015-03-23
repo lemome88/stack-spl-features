@@ -10,5 +10,5 @@
 			</setRelation>
 		</solitaryFeature>
 	</binaryRelation>
-	<binaryRelation name="R-base"><cardinality max="1" min="1"/><solitaryFeature name="featureB"/></binaryRelation></feature>
+	<binaryRelation name="R-base"><cardinality max="1" min="1"/><solitaryFeature name="featureB"/></binaryRelation><binaryRelation name="R-base"><cardinality max="1" min="1"/><solitaryFeature name="newFeature"/></binaryRelation></feature>
 </feature-model>
